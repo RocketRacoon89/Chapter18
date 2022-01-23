@@ -17,5 +17,7 @@ public class CompDemo2 {
         for(String element : ts)
             System.out.print(element + " ");
         System.out.println();
+
+
     }
 }
