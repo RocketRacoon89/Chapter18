@@ -1,5 +1,5 @@
 import java.util.TreeSet;
-
+//использовать лямбда-выражение для создания компаратора с обратным упорядочнением
 public class CompDemo2 {
     public static void main(String[] args) {
         //передать компаратор с обратным упорядочнением древовидному множеству типа TreeSet

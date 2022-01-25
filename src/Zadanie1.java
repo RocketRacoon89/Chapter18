@@ -4,7 +4,7 @@ public class Zadanie1 {
     public static void main(String[] args) {
         int [] array = {3, 8, 15, 17};
         Zadanie1 z = new Zadanie1();
-        int [] otv = z.getind(array, 23);
+        int [] otv = z.getind(array, 11);
         for(int y:otv)
             System.out.print(y +" ");
     }
